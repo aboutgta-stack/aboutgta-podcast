@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>AboutGTA Podcast</title>
+    <link>https://aboutgta.com/</link>
+    <atom:link href="https://aboutgta-stack.github.io/aboutgta-podcast/feed.xml" rel="self" type="application/rss+xml"/>
+    <description>GTA 6 news, guides and launch coverage from AboutGTA (https://aboutgta.com/). Release dates, prices, the Leonida map, system requirements and events — short briefings that separate what Rockstar confirmed from what is only reported or rumoured. Read the full guides at https://aboutgta.com/</description>
+    <language>en</language>
+    <copyright>AboutGTA</copyright>
+    <lastBuildDate>Thu, 13 Nov 2026 12:30:00 +0500</lastBuildDate>
+    <itunes:author>AboutGTA</itunes:author>
+    <itunes:summary>GTA 6 news, guides and launch coverage from AboutGTA. Release dates, prices, the Leonida map, system requirements and events — short briefings that separate what Rockstar confirmed from what is only reported or rumoured.</itunes:summary>
+    <itunes:owner>
+      <itunes:name>AboutGTA</itunes:name>
+      <itunes:email>thomus0011@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://aboutgta-stack.github.io/aboutgta-podcast/cover.jpg"/>
+    <itunes:category text="Leisure">
+      <itunes:category text="Video Games"/>
+    </itunes:category>
+    <itunes:explicit>false</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <image>
+      <url>https://aboutgta-stack.github.io/aboutgta-podcast/cover.jpg</url>
+      <title>AboutGTA Podcast</title>
+      <link>https://aboutgta.com/</link>
+    </image>
+
+    <item>
+      <title>GTA 6 Release Date: The Final Countdown to November 19</title>
+      <description><![CDATA[The countdown is on: GTA 6 launches on 19 November 2026 for PlayStation 5 and Xbox Series X|S. In this episode: what Rockstar has confirmed, the pre-load situation (live since 10 November, reported at up to ~212 GB), the 30fps targeting question, and your launch-week checklist.<br/><br/>Read the full guides on AboutGTA:<br/>GTA 6 release date guide: <a href="https://aboutgta.com/release-date/">https://aboutgta.com/release-date/</a><br/>GTA 6 release time by region: <a href="https://aboutgta.com/gta-6-release-time/">https://aboutgta.com/gta-6-release-time/</a><br/>More GTA 6 news and guides: <a href="https://aboutgta.com/">https://aboutgta.com/</a>]]></description>
+      <link>https://aboutgta.com/release-date/</link>
+      <guid isPermaLink="false">aboutgta-podcast-ep1-release-date</guid>
+      <pubDate>Thu, 13 Nov 2026 09:00:00 +0500</pubDate>
+      <enclosure url="https://aboutgta-stack.github.io/aboutgta-podcast/ep1-release-date.mp3" length="1129573" type="audio/mpeg"/>
+      <itunes:duration>141</itunes:duration>
+      <itunes:episode>1</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://aboutgta-stack.github.io/aboutgta-podcast/cover.jpg"/>
+    </item>
+
+    <item>
+      <title>GTA 6 Price Guide: Standard vs Ultimate Edition Explained</title>
+      <description><![CDATA[How much does GTA 6 cost? Rockstar confirmed US pricing on 24 June 2026: the Standard edition is $79.99 and the Ultimate edition is $99.99. In this episode: what the $20 difference means, why there is no cheaper last-gen edition, and why the physical-edition reports need care.<br/><br/>Read the full guides on AboutGTA:<br/>GTA 6 price guide: <a href="https://aboutgta.com/news-hub/gta-6-price-guide/">https://aboutgta.com/news-hub/gta-6-price-guide/</a><br/>More GTA 6 news and guides: <a href="https://aboutgta.com/">https://aboutgta.com/</a>]]></description>
+      <link>https://aboutgta.com/news-hub/gta-6-price-guide/</link>
+      <guid isPermaLink="false">aboutgta-podcast-ep2-price-guide</guid>
+      <pubDate>Thu, 13 Nov 2026 10:00:00 +0500</pubDate>
+      <enclosure url="https://aboutgta-stack.github.io/aboutgta-podcast/ep2-price-guide.mp3" length="1208677" type="audio/mpeg"/>
+      <itunes:duration>151</itunes:duration>
+      <itunes:episode>2</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://aboutgta-stack.github.io/aboutgta-podcast/cover.jpg"/>
+    </item>
+
+    <item>
+      <title>GTA 6 Festival Miami: Lineup, Tickets and the Waitlist</title>
+      <description><![CDATA[Two days after launch, Rockstar and PlayStation present the GTA 6 Festival: one night at Mana Wynwood, Miami, on Saturday 21 November 2026, with Travis Scott, Cardi B, Don Toliver and Kodak Black. In this episode: how the Laylo lottery and DICE sale worked (lottery now closed), the DICE waitlist, and why anyone selling purchase codes is running a scam.<br/><br/>Read the full guides on AboutGTA:<br/>GTA 6 Festival guide: <a href="https://aboutgta.com/gta-6-festival-miami-november-21/">https://aboutgta.com/gta-6-festival-miami-november-21/</a><br/>More GTA 6 news and guides: <a href="https://aboutgta.com/">https://aboutgta.com/</a>]]></description>
+      <link>https://aboutgta.com/gta-6-festival-miami-november-21/</link>
+      <guid isPermaLink="false">aboutgta-podcast-ep3-festival-miami</guid>
+      <pubDate>Thu, 13 Nov 2026 11:00:00 +0500</pubDate>
+      <enclosure url="https://aboutgta-stack.github.io/aboutgta-podcast/ep3-festival-miami.mp3" length="1119205" type="audio/mpeg"/>
+      <itunes:duration>139</itunes:duration>
+      <itunes:episode>3</itunes:episode>
+      <itunes:explicit>false</itunes:explicit>
+      <itunes:image href="https://aboutgta-stack.github.io/aboutgta-podcast/cover.jpg"/>
+    </item>
+
+  </channel>
+</rss>
